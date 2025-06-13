@@ -259,7 +259,7 @@ window.addEventListener('load', function() {
     const audio = document.getElementById('birthdayAudio');
     
     // Set audio volume lower for softer music
-    audio.volume = 0.3;
+    audio.volume = 0.6;
     
     let candleLit = true;
     
